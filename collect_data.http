@@ -1,0 +1,10 @@
+GET https://api.covid19api.com/total/dayone/country/bangladesh/status/confirmed
+
+
+### 
+
+GET https://api.covid19api.com/total/dayone/country/bangladesh/status/deaths
+
+
+### 
+GET https://api.covid19api.com/total/dayone/country/bangladesh/status/recovered
